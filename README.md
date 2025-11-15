@@ -10,9 +10,14 @@
 
 ***
 ## Ход работы
-<img width="1105" height="275" alt="image" src="https://github.com/user-attachments/assets/db38e25b-3277-4170-8d0c-d74c78dc92ec" />
-<img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/65b956fd-6e50-4706-b09a-2c137558b42d" />
+Создали и настроили проект в jeenkins
 
+
+Настроили вебхуки в репозитории
+<img width="1105" height="275" alt="image" src="https://github.com/user-attachments/assets/db38e25b-3277-4170-8d0c-d74c78dc92ec" />
+Собрали проект
+<img width="1916" height="862" alt="image" src="https://github.com/user-attachments/assets/65b956fd-6e50-4706-b09a-2c137558b42d" />
+Результаты сборки
 <img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/fd17336a-1de9-41f0-9daa-3bba8e368c26" />
 
 Сделали изменения в файле index.html, закоммитили и jeenkins автоматически запустил новую сборку и вот её результат
