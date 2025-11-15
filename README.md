@@ -11,6 +11,7 @@
 ***
 ## Ход работы
 Создали и настроили проект в jeenkins
+<img width="2500" height="6406" alt="158 160 194 244_8080_job_student-nazir-alimov_configure" src="https://github.com/user-attachments/assets/da074580-c901-4fe6-b94f-a273479d34ac" />
 
 
 Настроили вебхуки в репозитории
