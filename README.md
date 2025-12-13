@@ -10,7 +10,7 @@
 ## Ход работы
 ### Задание № 1
 Установили python и ansible
-<<img width="945" height="888" alt="image" src="https://github.com/user-attachments/assets/317e32fb-b546-4e13-97e9-370ec7f798e1" />
+<img width="945" height="888" alt="image" src="https://github.com/user-attachments/assets/317e32fb-b546-4e13-97e9-370ec7f798e1" />
 <img width="1380" height="232" alt="image" src="https://github.com/user-attachments/assets/cd3af2f8-b8f6-40bc-a8ba-9ba8ef382442" />
 
 Сгенерировали SSH ключевой пары на управляющей машине
@@ -31,14 +31,15 @@
 <img width="929" height="110" alt="image" src="https://github.com/user-attachments/assets/9dc97f31-a501-463d-99c2-4da10161e6cf" />
 
 ***
-###Задание №2
+### Задание №2
 
 Получили информацию о ядрах CPU управляемого хоста, список всех пользователей и проверили свободное место на диске:
 <img width="1244" height="930" alt="image" src="https://github.com/user-attachments/assets/88b9cb96-07a0-4ed8-ae64-1472026eaf3a" />
 Изменили временную зону хоста на UTC:
 <img width="1095" height="155" alt="image" src="https://github.com/user-attachments/assets/c80038c6-d379-4212-8114-2c5124b4790a" />
 
-###Задание №3
+***
+### Задание №3
 
 Создайли новый playbook `task3_files.yml`:
 
